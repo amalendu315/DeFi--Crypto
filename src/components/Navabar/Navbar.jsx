@@ -31,6 +31,9 @@ const Navbar = () => {
             <Link to="/coins">Coins</Link>
           </li>
           <li>
+            <Link to="/news">Crypto News</Link>
+          </li>
+          <li>
             <Link to="/contact">Contact</Link>
           </li>
         </ul>
