@@ -21,6 +21,8 @@
 
 -- This website is made using ReactJS and the data for the website is coming from two different api's one from the coin gecko and the other from the bingnews api.
 
+![Alt text](./src/assets/coinlistpage.png?raw=true "DeFi--Crypto")
+
 # What is the purpose of this website?
 
 -- This website is made to provide the users with the latest news and details about the crypto currencies. Provide our users the best and secure wallet connection and transactions made using the crypto currencies.
