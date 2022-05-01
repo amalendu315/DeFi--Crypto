@@ -31,6 +31,8 @@
 
 ## Connect your Metamask Wallet with end to end security using Solidity Smart Contract.
 
+![Alt text](./src/assets/Metamask_home.png?raw=true "DeFi--Crypto")
+
 # What is Solidity ?
 
 -- Solidity is a programming language used for writing smart contracts that are used in the blockchain network. It is a decentralized programming language that is used to write smart contracts that are used in the blockchain network. For more info visit [Solidity.org]
