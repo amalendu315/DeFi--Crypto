@@ -2,6 +2,8 @@
 
 -- This is a very good project made using ReactJS and the data for the website is coming from two different api's one from the coin gecko and the other from the bingnews api.
 
+![Alt text](./src/assets/Homepage.png?raw=true "DeFi--Crypto")
+
 # What is React Js?
 
 -- React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
