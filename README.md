@@ -27,6 +27,8 @@
 
 -- This website is made to provide the users with the latest news and details about the crypto currencies. Provide our users the best and secure wallet connection and transactions made using the crypto currencies.
 
+![Alt text](./src/assets/Featuredpage.png?raw=true "DeFi--Crypto")
+
 ## Connect your Metamask Wallet with end to end security using Solidity Smart Contract.
 
 # What is Solidity ?
