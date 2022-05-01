@@ -24,3 +24,45 @@
 # What is the purpose of this website?
 
 -- This website is made to provide the users with the latest news and details about the crypto currencies. Provide our users the best and secure wallet connection and transactions made using the crypto currencies.
+
+## Connect your Metamask Wallet with end to end security using Solidity Smart Contract.
+
+# What is Solidity ?
+
+-- Solidity is a programming language used for writing smart contracts that are used in the blockchain network. It is a decentralized programming language that is used to write smart contracts that are used in the blockchain network. For more info visit [Solidity.org]
+
+![Alt text](./src/assets/Solidity_def.png?raw=true "DeFi--Crypto")
+
+# What does Smart Contract mean?
+
+-- Smart Contract is a contract that is written using Solidity which keep all the transaction details and the data in the blockchain network.
+
+![Alt text](./src/assets/SmartContracts_def.png?raw=true "DeFi--Crypto")
+
+### Got a free API and used it to its extent !!
+
+## The API used in this project is of CoinGeko(coingecko.com) .
+
+# What is CoinGecko?
+
+-- CoinGecko was founded in 2014 by TM Lee (CEO) and Bobby Ong (COO) with the mission to democratize the access of crypto data and empower users with actionable insights. We also deep dive into the crypto space to deliver valuable insights to our users through our cryptocurrency reports, as well as our publications, newsletter and more.
+
+![Alt text](./src/assets/Coingeko_def.png?raw=true "DeFi--Crypto")
+
+## Fully Responsive Website :-
+
+# The website is fully responsive and works on all devices. This website is made using ReactJS.
+
+# Here are some snapshots from different devices:- 
+
+-- Laptop :-
+    
+![Alt text](./src/assets/Homepage.png?raw=true "DeFi--Crypto")
+
+-- Mobile :-
+
+![Alt text](./src/assets/Homepage_mobile.png?raw=true "DeFi--Crypto")
+
+
+
+

@@ -8,7 +8,8 @@ const Navbar = () => {
     const [click, setClick] = useState(false)
     const { connectWallet, connectedAccount, setConnectedAccount } = useContext(TransactionContext);
     const handleClick = () => setClick(!click);
-    const handleLogout = () => {
+    const handleLogout = (e) => {
+      e.preventDefault();
       setConnectedAccount(null);
     }
   return (
